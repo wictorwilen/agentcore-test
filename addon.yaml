@@ -1,0 +1,5 @@
+name: test
+author: wictorwilen
+files:
+  agents:
+  - pm-meeting-synthesizer.md
